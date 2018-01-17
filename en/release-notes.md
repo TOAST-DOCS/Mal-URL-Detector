@@ -1,1 +1,1 @@
-## Security > Mal-URL Detector > Release Notes
+## Security > Mal-URL Detector > 릴리스 노트
