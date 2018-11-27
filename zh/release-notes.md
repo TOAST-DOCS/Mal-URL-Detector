@@ -1,4 +1,10 @@
-## Security > Mal-URL Detector > Release Notes
+## Security > Mal-URL Detector > 릴리스 노트
+
+### 2018.11.27
+
+#### 기능 개선/변경
+* [API] 데이터 관리 정책 반영: 상품 비활성화 시 관련 데이터 삭제
+
 
 ## 2015.10.07
 
