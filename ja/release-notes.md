@@ -1,4 +1,10 @@
-## Security > Mal-URL Detector > 릴리스 노트
+## Security > Mal-URL Detector > リリースノート
+
+### 2019.05.14
+
+#### 機能改善
+* メール送信処理の変更
+
 
 ### 2019.02.26
 
