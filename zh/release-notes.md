@@ -1,4 +1,10 @@
-## Security > Mal-URL Detector > 릴리스 노트
+## Security > Mal-URL Detector > Release Notes
+
+### May 14, 2019
+
+#### Updates
+* Changes in the mail delivery processing 
+
 
 ### 2019.02.26
 
