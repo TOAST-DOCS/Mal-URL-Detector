@@ -1,9 +1,16 @@
 ## Security > Mal-URL Detector > Release Notes
 
+### August 27, 2019
+
+#### Feature Updates 
+* [Console] Same fonts applied for multiple languages 
+* [Console] Logins processed for redirection 
+
+
 ### May 14, 2019
 
 #### Updates
-* Changes in the mail delivery processing 
+* [API] Changes in the mail delivery processing 
 
 
 ### 2019.02.26
