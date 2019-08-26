@@ -1,9 +1,16 @@
 ## Security > Mal-URL Detector > Release Notes
 
+### August 27, 2019
+
+#### Feature Updates 
+* [Console] 다국어 글꼴 통일
+* [Console] 로그인 리다이렉션 처리
+
+
 ### May 14, 2019
 
 #### Updates
-* Changes in the mail delivery processing 
+* [API] Changes in the mail delivery processing 
 
 
 ### 2019.02.26
